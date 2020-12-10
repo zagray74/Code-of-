@@ -47,7 +47,11 @@ body {
     padding-bottom: 70px;
 }
 .nav {
-	border-bottom: 2px solid #fff;
+	border-bottom: 2px solid #00ff99;
+  position: fixed;
+  top: 0px;
+  background: #cc66ff;
+  width: 100%;
 }
 .menu {
 	margin-right: 15px;
